@@ -57,3 +57,15 @@ This repository is primarily for tracking my personal learning journey. However,
 Feel free to **star ⭐ the repository** if you find it useful or want to follow my DSA journey.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/codeWithSV7/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/codeWithSV7/DSA/tree/master/0050-powx-n) |
+<!---LeetCode Topics End-->
