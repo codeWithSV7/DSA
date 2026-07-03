@@ -64,10 +64,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/codeWithSV7/DSA/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/codeWithSV7/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/codeWithSV7/DSA/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/codeWithSV7/DSA/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
