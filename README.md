@@ -64,6 +64,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/codeWithSV7/DSA/tree/master/0050-powx-n) |
+| [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/codeWithSV7/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -74,6 +75,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/codeWithSV7/DSA/tree/master/0008-string-to-integer-atoi) |
+| [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +94,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
