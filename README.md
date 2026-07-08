@@ -80,6 +80,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeWithSV7/DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeWithSV7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -98,4 +99,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
