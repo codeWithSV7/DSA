@@ -80,6 +80,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeWithSV7/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/codeWithSV7/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeWithSV7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/codeWithSV7/DSA/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
