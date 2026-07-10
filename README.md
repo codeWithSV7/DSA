@@ -80,6 +80,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeWithSV7/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/codeWithSV7/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/codeWithSV7/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeWithSV7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -104,9 +105,14 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/codeWithSV7/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/codeWithSV7/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
