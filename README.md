@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/codeWithSV7/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/codeWithSV7/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeWithSV7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -95,6 +96,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeWithSV7/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -142,5 +144,6 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
