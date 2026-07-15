@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/codeWithSV7/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/codeWithSV7/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeWithSV7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,6 +123,7 @@ Happy Coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/codeWithSV7/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Stack
 |  |
 | ------- |
@@ -129,5 +131,10 @@ Happy Coding! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/codeWithSV7/DSA/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
