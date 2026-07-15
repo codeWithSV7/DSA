@@ -75,6 +75,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/codeWithSV7/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -94,6 +95,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeWithSV7/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,4 +139,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
