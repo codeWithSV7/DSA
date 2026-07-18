@@ -146,4 +146,16 @@ Happy Coding! 🚀
 | ------- |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/codeWithSV7/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/codeWithSV7/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/codeWithSV7/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
