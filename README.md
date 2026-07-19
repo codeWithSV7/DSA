@@ -75,6 +75,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/codeWithSV7/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/codeWithSV7/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -102,6 +103,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/codeWithSV7/DSA/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/codeWithSV7/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
