@@ -103,6 +103,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/codeWithSV7/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/codeWithSV7/DSA/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/codeWithSV7/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/codeWithSV7/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -165,5 +166,6 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/codeWithSV7/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/codeWithSV7/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
