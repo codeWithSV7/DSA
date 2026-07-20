@@ -97,12 +97,14 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeWithSV7/DSA/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/codeWithSV7/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/codeWithSV7/DSA/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/codeWithSV7/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/codeWithSV7/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -160,4 +162,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/codeWithSV7/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/codeWithSV7/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
