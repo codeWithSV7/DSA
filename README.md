@@ -139,6 +139,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/codeWithSV7/DSA/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -175,4 +176,8 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/codeWithSV7/DSA/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/codeWithSV7/DSA/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/codeWithSV7/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/codeWithSV7/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
