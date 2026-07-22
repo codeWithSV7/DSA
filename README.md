@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0008-string-to-integer-atoi](https://github.com/codeWithSV7/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/codeWithSV7/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
+| [0649-dota2-senate](https://github.com/codeWithSV7/DSA/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -126,6 +127,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/codeWithSV7/DSA/tree/master/0649-dota2-senate) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
@@ -196,4 +198,8 @@ Happy Coding! 🚀
 | ------- |
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/codeWithSV7/DSA/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/codeWithSV7/DSA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
