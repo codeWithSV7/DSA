@@ -64,6 +64,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/codeWithSV7/DSA/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codeWithSV7/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/codeWithSV7/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -88,6 +89,7 @@ Happy Coding! 🚀
 | [0031-next-permutation](https://github.com/codeWithSV7/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/codeWithSV7/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/codeWithSV7/DSA/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codeWithSV7/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
@@ -139,6 +141,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codeWithSV7/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codeWithSV7/DSA/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
