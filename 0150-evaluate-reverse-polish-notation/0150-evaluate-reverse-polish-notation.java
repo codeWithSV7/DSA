@@ -7,21 +7,29 @@ class Solution {
 
         for (String s : tokens) {
 
-            if (s.equals("+") || s.equals("-") || s.equals("*") || s.equals("/")) {
-
-                int b = stack.pop();
-                int a = stack.pop();
-
                 switch (s) {
-                    case "+" -> stack.push(a + b);
-                    case "-" -> stack.push(a - b);
-                    case "*" -> stack.push(a * b);
-                    case "/" -> stack.push(a / b);
+                    case "+" -> {
+                        int b = stack.pop();
+                        int a = stack.pop();
+                        stack.push(a + b);
+                    }
+                    case "-" -> {
+                        int b = stack.pop();
+                        int a = stack.pop();
+                        stack.push(a - b);
+                    }
+                    case "*" -> {
+                        int b = stack.pop();
+                        int a = stack.pop();
+                        stack.push(a * b);
+                    }
+                    case "/" -> {
+                        int b = stack.pop();
+                        int a = stack.pop();
+                        stack.push(a / b);
+                    }
+                    default -> stack.push(Integer.parseInt(s));
                 }
-
-            } else {
-                stack.push(Integer.parseInt(s));
-            }
         }
 
         return stack.pop();
