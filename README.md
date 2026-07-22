@@ -96,6 +96,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/codeWithSV7/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/codeWithSV7/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/codeWithSV7/DSA/tree/master/0739-daily-temperatures) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeWithSV7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -149,6 +150,7 @@ Happy Coding! 🚀
 | [0155-min-stack](https://github.com/codeWithSV7/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/codeWithSV7/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/codeWithSV7/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -193,4 +195,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/codeWithSV7/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
