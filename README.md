@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/codeWithSV7/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/codeWithSV7/DSA/tree/master/0735-asteroid-collision) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeWithSV7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -104,6 +105,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/codeWithSV7/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Happy Coding! 🚀
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codeWithSV7/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codeWithSV7/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/codeWithSV7/DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
@@ -186,4 +189,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/codeWithSV7/DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
