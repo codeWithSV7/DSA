@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0150-evaluate-reverse-polish-notation](https://github.com/codeWithSV7/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/codeWithSV7/DSA/tree/master/1922-count-good-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/codeWithSV7/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Happy Coding! 🚀
 | ------- |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/codeWithSV7/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
