@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/codeWithSV7/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/codeWithSV7/DSA/tree/master/0649-dota2-senate) |
+| [0796-rotate-string](https://github.com/codeWithSV7/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -236,4 +237,8 @@ Happy Coding! 🚀
 | [0112-path-sum](https://github.com/codeWithSV7/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/codeWithSV7/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codeWithSV7/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/codeWithSV7/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
