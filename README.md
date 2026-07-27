@@ -65,6 +65,7 @@ Happy Coding! 🚀
 | ------- |
 | [0050-powx-n](https://github.com/codeWithSV7/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codeWithSV7/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/codeWithSV7/DSA/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeWithSV7/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -96,6 +97,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/codeWithSV7/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/codeWithSV7/DSA/tree/master/0735-asteroid-collision) |
@@ -110,6 +112,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/codeWithSV7/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -149,6 +152,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/codeWithSV7/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codeWithSV7/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +177,7 @@ Happy Coding! 🚀
 | ------- |
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/codeWithSV7/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/codeWithSV7/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
@@ -241,4 +246,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/codeWithSV7/DSA/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
