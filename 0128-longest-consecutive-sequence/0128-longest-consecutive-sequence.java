@@ -13,7 +13,7 @@ class Solution {
                     current++;
                     length++;
                 }
-                longest = Math.max(longest,length);
+                if (length > longest) longest = length;
             }
 
         }
