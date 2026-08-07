@@ -102,6 +102,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/codeWithSV7/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/codeWithSV7/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/codeWithSV7/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/codeWithSV7/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codeWithSV7/DSA/tree/master/0739-daily-temperatures) |
@@ -120,6 +121,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/codeWithSV7/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/codeWithSV7/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codeWithSV7/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/codeWithSV7/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
