@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | [0649-dota2-senate](https://github.com/codeWithSV7/DSA/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/codeWithSV7/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codeWithSV7/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codeWithSV7/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -173,6 +174,7 @@ Happy Coding! 🚀
 | [0735-asteroid-collision](https://github.com/codeWithSV7/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codeWithSV7/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codeWithSV7/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
