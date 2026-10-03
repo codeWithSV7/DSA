@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codeWithSV7/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codeWithSV7/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/codeWithSV7/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Happy Coding! 🚀
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeWithSV7/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codeWithSV7/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codeWithSV7/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/codeWithSV7/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,4 +274,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/codeWithSV7/DSA/tree/master/0073-set-matrix-zeroes) |
+## Counting
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/codeWithSV7/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
