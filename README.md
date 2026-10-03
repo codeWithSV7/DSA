@@ -85,6 +85,7 @@ Happy Coding! 🚀
 | [0796-rotate-string](https://github.com/codeWithSV7/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/codeWithSV7/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codeWithSV7/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/codeWithSV7/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/codeWithSV7/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codeWithSV7/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/codeWithSV7/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -126,6 +127,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/codeWithSV7/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/codeWithSV7/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/codeWithSV7/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1796-second-largest-digit-in-a-string](https://github.com/codeWithSV7/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
